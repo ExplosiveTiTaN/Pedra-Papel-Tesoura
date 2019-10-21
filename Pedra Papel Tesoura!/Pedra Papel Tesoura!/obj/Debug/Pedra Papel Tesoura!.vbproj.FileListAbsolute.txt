@@ -1,0 +1,12 @@
+C:\Users\Explosive_TiTaN\source\repos\Pedra Papel Tesoura!\Pedra Papel Tesoura!\bin\Debug\Pedra Papel Tesoura!.exe.config
+C:\Users\Explosive_TiTaN\source\repos\Pedra Papel Tesoura!\Pedra Papel Tesoura!\bin\Debug\Pedra Papel Tesoura!.exe
+C:\Users\Explosive_TiTaN\source\repos\Pedra Papel Tesoura!\Pedra Papel Tesoura!\bin\Debug\Pedra Papel Tesoura!.pdb
+C:\Users\Explosive_TiTaN\source\repos\Pedra Papel Tesoura!\Pedra Papel Tesoura!\bin\Debug\Pedra Papel Tesoura!.xml
+C:\Users\Explosive_TiTaN\source\repos\Pedra Papel Tesoura!\Pedra Papel Tesoura!\obj\Debug\Pedra Papel Tesoura!.vbprojAssemblyReference.cache
+C:\Users\Explosive_TiTaN\source\repos\Pedra Papel Tesoura!\Pedra Papel Tesoura!\obj\Debug\Pedra_Papel_Tesoura_.Form1.resources
+C:\Users\Explosive_TiTaN\source\repos\Pedra Papel Tesoura!\Pedra Papel Tesoura!\obj\Debug\Pedra_Papel_Tesoura_.Resources.resources
+C:\Users\Explosive_TiTaN\source\repos\Pedra Papel Tesoura!\Pedra Papel Tesoura!\obj\Debug\Pedra Papel Tesoura!.vbproj.GenerateResource.cache
+C:\Users\Explosive_TiTaN\source\repos\Pedra Papel Tesoura!\Pedra Papel Tesoura!\obj\Debug\Pedra Papel Tesoura!.vbproj.CoreCompileInputs.cache
+C:\Users\Explosive_TiTaN\source\repos\Pedra Papel Tesoura!\Pedra Papel Tesoura!\obj\Debug\Pedra Papel Tesoura!.exe
+C:\Users\Explosive_TiTaN\source\repos\Pedra Papel Tesoura!\Pedra Papel Tesoura!\obj\Debug\Pedra Papel Tesoura!.xml
+C:\Users\Explosive_TiTaN\source\repos\Pedra Papel Tesoura!\Pedra Papel Tesoura!\obj\Debug\Pedra Papel Tesoura!.pdb
